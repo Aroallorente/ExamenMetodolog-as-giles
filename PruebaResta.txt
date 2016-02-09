@@ -1,0 +1,10 @@
+Ejecutamos los test del diseño para probar si falla, que dará rojo. 
+
+Los test de restar 2 dígitos naturales nos tiene que resultar verde, que será que no da error. Por ejemplo: 
+2-2=0
+5-0=5
+8-4=4
+
+Estos ejemplos en la resta nos darían error ya que el resultado debe ser número natural:
+2+(-4)=Error
+9-15=No se puede realizar
