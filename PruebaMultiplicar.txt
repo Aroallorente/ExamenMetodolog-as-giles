@@ -1,0 +1,6 @@
+Ejecutamos los test del diseño para probar si falla, que dará rojo. 
+
+Los test de multiplicar 2 dígitos naturales nos tiene que resultar verde, que será que no da error. Por ejemplo: 
+2*3=6
+8*0=0
+2*(-4)=Error
