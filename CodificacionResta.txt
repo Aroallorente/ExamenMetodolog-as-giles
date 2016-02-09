@@ -1,0 +1,1 @@
+Desarrollamos el código que no nos ha dado fallo en la fase de pruebas para que reste correctamente. Implementamos el código necesario sin duplicidades, o sea refactorizado.   
