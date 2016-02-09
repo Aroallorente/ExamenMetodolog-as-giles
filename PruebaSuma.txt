@@ -1,0 +1,6 @@
+Ejecutamos los test del diseño para probar si falla, que dará rojo. 
+
+Los test de sumar 2 dígitos naturales nos tiene que resultar verde, que será que no da error. Por ejemplo: 
+2+2=4
+5+0=5
+2+(-4)=Error
